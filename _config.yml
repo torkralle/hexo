@@ -105,3 +105,6 @@ deploy:
   type: git
   repo: https://github.com/torkralle/hexo
   branch: master
+
+sitemap:
+  path: sitemap.xml
