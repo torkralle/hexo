@@ -95,7 +95,8 @@ exclude: []
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
+plugins:
+  - hexo-generator-robotstxt
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-apollo
 
@@ -126,3 +127,8 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+robotstxt:
+  useragent: "*"
+  allow: "*"
+  sitemap: /sitemap.xml
