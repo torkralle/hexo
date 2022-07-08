@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hoshippe Blog
 subtitle: ""
 description: ""
 keywords:
-author: John Doe
+author: Hoshippe
 language: en
-timezone: ""
+timezone: "Asia/Tokyo"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,6 +97,8 @@ ignore:
 # Extensions
 plugins:
   - hexo-generator-robotstxt
+  - hexo-generator-feed
+  - hexo-generator-seo-friendly-sitemap
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-apollo
 
