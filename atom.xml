@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>http://torkralle.github.io/hexo/icon.png</icon>
+  
+  <link href="http://torkralle.github.io/hexo/atom.xml" rel="self"/>
+  
+  <link href="http://torkralle.github.io/hexo/"/>
+  <updated>2022-07-08T10:51:43.062Z</updated>
+  <id>http://torkralle.github.io/hexo/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>函館・小樽観光記</title>
+    <link href="http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/"/>
+    <id>http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/</id>
+    <published>2022-05-21T10:25:39.000Z</published>
+    <updated>2022-07-08T10:51:43.062Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;函館、小樽のすすめ&quot;&gt;&lt;a href=&quot;#函館、小樽のすすめ&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>道東釧路のライダーハウス銀鱗荘は夕食のコスパがすごい</title>
+    <link href="http://torkralle.github.io/hexo/2022/05/20/Ginrinso/"/>
+    <id>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/</id>
+    <published>2022-05-20T10:38:00.000Z</published>
+    <updated>2022-07-08T10:50:55.984Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;はじめに&quot;&gt;&lt;a href=&quot;#はじめに&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>留寿都村のローカル温泉に入ってみた！</title>
+    <link href="http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/"/>
+    <id>http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/</id>
+    <published>2022-05-19T10:41:47.000Z</published>
+    <updated>2022-07-08T10:52:11.435Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;ルスツ温泉に行ってきました&quot;&gt;&lt;a href=&quot;#ルスツ温泉に行ってきました&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
