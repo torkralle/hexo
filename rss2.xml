@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hoshippe Blog</title>
-    <link>http://torkralle.github.io/hexo/</link>
+    <link>http://hoshippe.com/</link>
     
     <image>
-      <url>http://torkralle.github.io/hexo/icon.png</url>
+      <url>http://hoshippe.com/icon.png</url>
       <title>Hoshippe Blog</title>
-      <link>http://torkralle.github.io/hexo/</link>
+      <link>http://hoshippe.com/</link>
     </image>
     
-    <atom:link href="http://torkralle.github.io/hexo/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://hoshippe.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Fri, 08 Jul 2022 10:51:43 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>函館・小樽観光記</title>
-      <link>http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/</link>
-      <guid>http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/</guid>
+      <link>http://hoshippe.com/2022/05/21/Hakodate-Otaru/</link>
+      <guid>http://hoshippe.com/2022/05/21/Hakodate-Otaru/</guid>
       <pubDate>Sat, 21 May 2022 10:25:39 GMT</pubDate>
       
         
@@ -37,14 +37,14 @@
       
       
       
-      <comments>http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/#disqus_thread</comments>
+      <comments>http://hoshippe.com/2022/05/21/Hakodate-Otaru/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>道東釧路のライダーハウス銀鱗荘は夕食のコスパがすごい</title>
-      <link>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/</link>
-      <guid>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/</guid>
+      <link>http://hoshippe.com/2022/05/20/Ginrinso/</link>
+      <guid>http://hoshippe.com/2022/05/20/Ginrinso/</guid>
       <pubDate>Fri, 20 May 2022 10:38:00 GMT</pubDate>
       
         
@@ -60,14 +60,14 @@
       
       
       
-      <comments>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/#disqus_thread</comments>
+      <comments>http://hoshippe.com/2022/05/20/Ginrinso/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>留寿都村のローカル温泉に入ってみた！</title>
-      <link>http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/</link>
-      <guid>http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/</guid>
+      <link>http://hoshippe.com/2022/05/19/Rusutsu-Spring/</link>
+      <guid>http://hoshippe.com/2022/05/19/Rusutsu-Spring/</guid>
       <pubDate>Thu, 19 May 2022 10:41:47 GMT</pubDate>
       
         
@@ -83,7 +83,7 @@
       
       
       
-      <comments>http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/#disqus_thread</comments>
+      <comments>http://hoshippe.com/2022/05/19/Rusutsu-Spring/#disqus_thread</comments>
       
     </item>
     

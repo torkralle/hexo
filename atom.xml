@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hoshippe Blog</title>
-  <icon>http://torkralle.github.io/hexo/icon.png</icon>
+  <icon>http://hoshippe.com/icon.png</icon>
   
-  <link href="http://torkralle.github.io/hexo/atom.xml" rel="self"/>
+  <link href="http://hoshippe.com/atom.xml" rel="self"/>
   
-  <link href="http://torkralle.github.io/hexo/"/>
+  <link href="http://hoshippe.com/"/>
   <updated>2022-07-08T10:51:43.062Z</updated>
-  <id>http://torkralle.github.io/hexo/</id>
+  <id>http://hoshippe.com/</id>
   
   <author>
     <name>Hoshippe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>函館・小樽観光記</title>
-    <link href="http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/"/>
-    <id>http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/</id>
+    <link href="http://hoshippe.com/2022/05/21/Hakodate-Otaru/"/>
+    <id>http://hoshippe.com/2022/05/21/Hakodate-Otaru/</id>
     <published>2022-05-21T10:25:39.000Z</published>
     <updated>2022-07-08T10:51:43.062Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>道東釧路のライダーハウス銀鱗荘は夕食のコスパがすごい</title>
-    <link href="http://torkralle.github.io/hexo/2022/05/20/Ginrinso/"/>
-    <id>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/</id>
+    <link href="http://hoshippe.com/2022/05/20/Ginrinso/"/>
+    <id>http://hoshippe.com/2022/05/20/Ginrinso/</id>
     <published>2022-05-20T10:38:00.000Z</published>
     <updated>2022-07-08T11:04:05.082Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>留寿都村のローカル温泉に入ってみた！</title>
-    <link href="http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/"/>
-    <id>http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/</id>
+    <link href="http://hoshippe.com/2022/05/19/Rusutsu-Spring/"/>
+    <id>http://hoshippe.com/2022/05/19/Rusutsu-Spring/</id>
     <published>2022-05-19T10:41:47.000Z</published>
     <updated>2022-07-08T10:52:11.435Z</updated>
     
