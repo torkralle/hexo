@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/</loc>
+        <lastmod>2022-07-08T11:04:05.082Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://torkralle.github.io/hexo/2022/05/19/Rusutsu-Spring/</loc>
         <lastmod>2022-07-08T10:52:11.435Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +27,6 @@
     <url>
         <loc>http://torkralle.github.io/hexo/2022/05/21/Hakodate-Otaru/</loc>
         <lastmod>2022-07-08T10:51:43.062Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://torkralle.github.io/hexo/2022/05/20/Ginrinso/</loc>
-        <lastmod>2022-07-08T10:50:55.984Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
