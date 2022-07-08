@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hexo</title>
+    <title>Hoshippe Blog</title>
     <link>http://torkralle.github.io/hexo/</link>
     
     <image>
       <url>http://torkralle.github.io/hexo/icon.png</url>
-      <title>Hexo</title>
+      <title>Hoshippe Blog</title>
       <link>http://torkralle.github.io/hexo/</link>
     </image>
     
