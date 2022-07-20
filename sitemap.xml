@@ -4,12 +4,17 @@
 
     <sitemap>
         <loc>http://hoshippe.com/post-sitemap.xml</loc>
-        <lastmod>2022-07-10T05:41:59.227Z</lastmod>
+        <lastmod>2022-07-20T01:04:40.350Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://hoshippe.com/page-sitemap.xml</loc>
         <lastmod>2022-07-08T12:20:18.653Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://hoshippe.com/tag-sitemap.xml</loc>
+        <lastmod>2022-07-20T01:04:40.350Z</lastmod>
     </sitemap>
 
 </sitemapindex>
